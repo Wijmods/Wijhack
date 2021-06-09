@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wih",
+  "name": "wijhack",
+  "description": "the snack that smiles back, wijhack!",
+  "version": "$0.0.3",
+  "mcversion": "${1.12.2}",
+  "url": "Github.com/wijiler/wijhack",
+  "updateUrl": "",
+  "authorList": ["wijiler"],
+  "credits": "SrgantMooMoo for tutorial",
+  "logoFile": "WijHack.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
