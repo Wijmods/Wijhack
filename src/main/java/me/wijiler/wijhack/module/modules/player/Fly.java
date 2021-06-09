@@ -17,18 +17,12 @@ public class Fly extends Module {
 
     @Override
     public void onEnable() {
-
-
-
         mc.player.capabilities.isFlying = true;
         mc.player.capabilities.allowFlying = true;
     }
 
     @Override
     public void onDisable() {
-
-
-
         mc.player.capabilities.isFlying = false;
         mc.player.capabilities.allowFlying = false;
     }
